@@ -1,25 +1,27 @@
+## 👋 UA3-ProjetServeurWeb
 # Portfolio de Maziz Jugurta
 
+## 📫Description
 Ce projet est mon portfolio développé en Next.js qui sert de preuve de compétences pour la recherche d'emploi . Le projet intègre Redux pour la gestion de l'authentification et des témoignages (sans backend), ainsi que Bootstrap pour le style et Animate.css pour les animations.
 
 ## Fonctionnalités
 
-- **Page d'accueil** présentant une photo, une brève présentation et vos compétences.
-- **Header et Footer** communs avec navigation entre les pages du portfolio.
-- **Pages de détails pour les projets** (minimum 2 et maximum 3 projets).
-- **Pages d'inscription et de connexion** (formulaires gérés avec Redux, sans backend).
-- **Pages de témoignages** permettant aux visiteurs de laisser des messages (liste et formulaire de modification).
-- **Protection des routes** : seules les personnes connectées peuvent accéder aux pages autres que connexion et inscription.
+- [ ] **Page d'accueil** présentant une photo, une brève présentation et vos compétences.
+- [ ] **Header et Footer** communs avec navigation entre les pages du portfolio.
+- [ ] **Pages de détails pour les projets** (minimum 2 et maximum 3 projets).
+- [ ] **Pages d'inscription et de connexion** (formulaires gérés avec Redux, sans backend).
+- [ ] **Pages de témoignages** permettant aux visiteurs de laisser des messages (liste et formulaire de modification).
+- [ ] **Protection des routes** : seules les personnes connectées peuvent accéder aux pages autres que connexion et inscription.
 
-## Technologies utilisées
-
+### 🔨 language et outils Utilisées
 - **Next.js 13** (App Router)
 - **React** 
 - **Redux & Redux Persist**
 - **Bootstrap** (pour le design et la mise en page)
 - **Animate.css** (pour les animations)
 - **Google Fonts** (optionnel)
-
+  
+![icons8-visual-studio-code-240](https://github.com/user-attachments/assets/5ea264d4-487a-4efd-9c31-7b7c5618fdb4)
 ![image](https://github.com/user-attachments/assets/11e857aa-37f0-4fa5-b1f7-99479d18c525)
 ![react](https://github.com/user-attachments/assets/7fcf2141-7d6f-4050-a561-7bb3ba8ce6a6)
 ![icons8-redux-96](https://github.com/user-attachments/assets/7f8feeea-162e-4ff2-a37e-3ac356ef6999)
@@ -40,13 +42,8 @@ Ce projet est mon portfolio développé en Next.js qui sert de preuve de compét
 ![image](https://github.com/user-attachments/assets/80f76fb3-88a1-4c71-84be-786e10b47864)
 
 
+🚶 Auteur
+Ce projet a été réalisé par [ Maziz Jugurta].
+# License 
+- Copyright © 2025 MyPortfolio. All rights reserved.
 
-
-
-
-
-
-
-
-## 📜 Auteur
-- Jugurta Maziz
