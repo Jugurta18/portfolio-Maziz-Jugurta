@@ -19,7 +19,7 @@ Ce projet est mon portfolio développé en Next.js qui sert de preuve de compét
 - **Redux & Redux Persist**
 - **Bootstrap** (pour le design et la mise en page)
 - **Animate.css** (pour les animations)
-- **Google Fonts** (optionnel)
+- **Google Fonts** 
   
 ![icons8-visual-studio-code-240](https://github.com/user-attachments/assets/5ea264d4-487a-4efd-9c31-7b7c5618fdb4)
 ![image](https://github.com/user-attachments/assets/11e857aa-37f0-4fa5-b1f7-99479d18c525)
