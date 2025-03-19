@@ -20,3 +20,5 @@ Ce projet est mon portfolio développé en Next.js qui sert de preuve de compét
 - **Animate.css** (pour les animations)
 - **Google Fonts** (optionnel)
 
+## 📜 Auteur
+- Jugurta Maziz
