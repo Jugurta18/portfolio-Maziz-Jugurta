@@ -19,6 +19,8 @@ Ce projet est mon portfolio développé en Next.js qui sert de preuve de compét
 - **Bootstrap** (pour le design et la mise en page)
 - **Animate.css** (pour les animations)
 - **Google Fonts** (optionnel)
+  ![image](https://github.com/user-attachments/assets/11e857aa-37f0-4fa5-b1f7-99479d18c525)
+
   
 ## Capture d'ecran de mon site web 
 ![image](https://github.com/user-attachments/assets/95050181-8a9e-44d7-b051-8f854e220c5c)
