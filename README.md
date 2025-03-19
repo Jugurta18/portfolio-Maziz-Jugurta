@@ -1,40 +1,22 @@
-<<<<<<< HEAD
-# portfolio-Maziz-Jugurta
-=======
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Portfolio de Maziz Jugurta
 
-## Getting Started
+Ce projet est mon portfolio développé en Next.js qui sert de preuve de compétences pour la recherche d'emploi . Le projet intègre Redux pour la gestion de l'authentification et des témoignages (sans backend), ainsi que Bootstrap pour le style et Animate.css pour les animations.
 
-First, run the development server:
+## Fonctionnalités
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- **Page d'accueil** présentant une photo, une brève présentation et vos compétences.
+- **Header et Footer** communs avec navigation entre les pages du portfolio.
+- **Pages de détails pour les projets** (minimum 2 et maximum 3 projets).
+- **Pages d'inscription et de connexion** (formulaires gérés avec Redux, sans backend).
+- **Pages de témoignages** permettant aux visiteurs de laisser des messages (liste et formulaire de modification).
+- **Protection des routes** : seules les personnes connectées peuvent accéder aux pages autres que connexion et inscription.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Technologies utilisées
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+- **Next.js 13** (App Router)
+- **React**
+- **Redux & Redux Persist**
+- **Bootstrap** (pour le design et la mise en page)
+- **Animate.css** (pour les animations)
+- **Google Fonts** (optionnel)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
->>>>>>> jugurta18
