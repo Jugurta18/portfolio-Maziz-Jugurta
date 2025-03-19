@@ -1,4 +1,4 @@
-## 👋 UA3-ProjetServeurWeb
+## 👋 UA3-Programmation Web avancé
 # Portfolio de Maziz Jugurta
 
 ## 📫Description
