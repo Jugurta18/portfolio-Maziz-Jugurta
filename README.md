@@ -27,7 +27,7 @@ Ce projet est mon portfolio développé en Next.js qui sert de preuve de compét
 ![icons8-redux-96](https://github.com/user-attachments/assets/7f8feeea-162e-4ff2-a37e-3ac356ef6999)
 ![icons8-bootstrap-128](https://github.com/user-attachments/assets/17611fde-8dff-416b-836e-dff607851d34)
 ![css-3](https://github.com/user-attachments/assets/67fc2b2b-2aa6-4650-abda-dea38b6b66ad)
-![vecteezy_google-fonts-logo-icon_25732714](https://github.com/user-attachments/assets/94eb8472-ba20-476a-94ab-e031654f367f)
+
 
   
 ## Capture d'ecran de mon site web 
