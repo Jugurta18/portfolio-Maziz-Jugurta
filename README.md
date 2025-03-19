@@ -42,8 +42,7 @@ Ce projet est mon portfolio développé en Next.js qui sert de preuve de compét
 ![image](https://github.com/user-attachments/assets/80f76fb3-88a1-4c71-84be-786e10b47864)
 
 
-🚶 Auteur
-Ce projet a été réalisé par [ Maziz Jugurta].
+🚶 Auteur: Ce projet a été réalisé par [ Maziz Jugurta].
 # License 
 - Copyright © 2025 MyPortfolio. All rights reserved.
 
