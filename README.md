@@ -6,12 +6,12 @@ Ce projet est mon portfolio développé en Next.js qui sert de preuve de compét
 
 ## Fonctionnalités
 
-- [ ] **Page d'accueil** présentant une photo, une brève présentation et vos compétences.
+- [ ] **Page d'accueil** présentant ma photo, une brève présentation ainsi que mes compétences.
 - [ ] **Header et Footer** communs avec navigation entre les pages du portfolio.
-- [ ] **Pages de détails pour les projets** (deux de mes projet realiser en programmation informatique le 1er en 2eme session avec javascript html et css et le 2eme durant ma dérniere session d'étude).
+- [ ] **Pages de détails pour les projets** (deux de mes projet realiser en programmation informatique 1er en 2eme session avec javascript html et css et le 2eme durant ma dérniere session d'étude).
 - [ ] **Pages d'inscription et de connexion** (formulaires gérés avec Redux, sans backend).
-- [ ] **Pages de témoignages** permettant aux visiteurs de laisser des messages (liste et formulaire de modification).
-- [ ] **Protection des routes** : seules les personnes connectées peuvent accéder aux pages autres que connexion et inscription.
+- [ ] **Pages de témoignages** permettant aux visiteurs de laisser des messages ( modification ajout et suppression).
+- [ ] **Protection des routes** : seules les personnes connectées qui peuvent accéder a mes pages autres que connexion et inscription.
 
 ### 🔨 language et outils Utilisées
 - **Next.js 13** (App Router)
