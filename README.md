@@ -6,6 +6,7 @@ Ce projet est mon portfolio développé en Next.js qui sert de preuve de compét
 
 ## Fonctionnalités
 
+
 - [ ] **Page d'accueil** présentant ma photo, une brève présentation ainsi que mes compétences.
 - [ ] **Header et Footer** communs avec navigation entre les pages du portfolio.
 - [ ] **Pages de détails pour les projets** (deux de mes projet realiser en programmation informatique 1er en 2eme session avec javascript html et css et le 2eme durant ma dérniere session d'étude).
@@ -31,6 +32,7 @@ Ce projet est mon portfolio développé en Next.js qui sert de preuve de compét
 
   
 ## Capture d'ecran de mon site web 
+![image](https://github.com/user-attachments/assets/10c8b38d-05d1-4708-95b8-2658fd1224d9)
 ![image](https://github.com/user-attachments/assets/95050181-8a9e-44d7-b051-8f854e220c5c)
 ![image](https://github.com/user-attachments/assets/ef9b2b1f-57da-46a1-92cf-7b81fc070338)
 ![image](https://github.com/user-attachments/assets/d96ca5ad-818e-49f3-acff-6bb602193f9a)
