@@ -21,7 +21,7 @@ export const loginAsync = createAsyncThunk(
 const initialState = {
   isAuthenticated: false,
   user: null,
-  registeredUsers: [], // Assurez-vous que registeredUsers est initialisé comme un tableau vide
+  registeredUsers: [], 
   status: "idle",
   error: null,
 };
@@ -31,7 +31,7 @@ const authSlice = createSlice({
   initialState,
   reducers: {
     REGISTER: (state, action) => {
-      // On s'assure que registeredUsers est bien un tableau
+      
       if (!state.registeredUsers) {
         state.registeredUsers = [];
       }
