@@ -66,7 +66,7 @@ export default function ListeTemoignages() {
                       />
                       <div>
                         <h5 className="mb-0">{t.name || "Anonyme"}</h5>
-                        <small className="text-muted">Client Professionnel</small>
+                        <small className="text-muted">Client</small>
                       </div>
                     </div>
 

@@ -17,7 +17,7 @@ export default function Footer() {
 
           {/* Icône LinkedIn */}
           <Link
-            href="https://www.linkedin.com/jobs/"
+            href="https://www.linkedin.com/in/jugurta-maziz-6236b7356/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-dark"
